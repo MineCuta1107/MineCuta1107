@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MineCuta1107&theme=synthwave)](https://github.com/MineCuta1107/MineCuta1107)
 
-[![MineCuta1107's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=synthwave)]
+[![MineCuta1107's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=synthwave)
 
 <a href="https://github.com/MineCuta1107/Nishimiya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MineCuta1107&repo=Nishimiya" />
