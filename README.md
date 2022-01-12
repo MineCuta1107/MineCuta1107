@@ -12,7 +12,7 @@ Welcome to my page!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MineCuta1107&repo=Nishimiya&show_owner=true" />
 </a>
 <h2>ARCHIVED</h2>
-<a href="https://github.com/MineCuta1107/Nishimiya">
+<a href="https://github.com/MineCuta1107/Mine-Cuta-Support">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MineCuta1107&repo=Mine-Cuta-Support&show_owner=true" />
 </a>
 
