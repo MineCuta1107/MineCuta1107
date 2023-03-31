@@ -6,8 +6,6 @@ Welcome to my page!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MineCuta1107&theme=synthwave&langs_count=8)](https://github.com/MineCuta1107/MineCuta1107)
 
-![MineCuta1107's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MineCuta1107&theme=synthwave)
-
 <a href="https://github.com/MineCuta1107/Nishimiya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MineCuta1107&repo=Nishimiya&show_owner=true" />
 </a>
